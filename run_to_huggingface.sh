@@ -1,0 +1,1 @@
+python simcse_to_huggingface.py --path result/my-unsup-simcse-bert-base-uncased
